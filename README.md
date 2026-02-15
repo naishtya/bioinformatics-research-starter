@@ -1,4 +1,4 @@
-🧬 Bioinformatics Research Starter
+# 🧬 Bioinformatics Research Starter
 
 This repository documents my bioinformatics learning journey, including research summaries, foundational transcriptomics concepts, and early-stage analysis practice.
 
@@ -6,7 +6,7 @@ The goal is to build a strong foundation in bioinformatics, computational biolog
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Learn core bioinformatics concepts  
 - Understand transcriptomics and gene expression analysis  
@@ -17,9 +17,9 @@ The goal is to build a strong foundation in bioinformatics, computational biolog
 
 ---
 
-🔬 Learning Progression
+## 🔬 Learning Progression
 
-📘 Phase 1 — Transcriptomics Research Foundation  
+### 📘 Phase 1 — Transcriptomics Research Foundation  
 
 Focus:
 - Understanding transcriptomics concepts  
@@ -37,7 +37,7 @@ Skills Developed:
 
 ---
 
-🧪 Phase 2 — Applied Differential Expression Analysis  
+### 🧪 Phase 2 — Applied Differential Expression Analysis  
 
 Practical DEG analysis projects using public datasets are maintained in separate dedicated repositories.
 
@@ -51,7 +51,7 @@ This separation allows clearer organization between:
 
 ---
 
-📘 Current Contents
+## 📘 Current Contents
 
 - Transcriptomics paper summary: Effect of glabridin on biofilm formation in *Staphylococcus aureus*
 - Foundational transcriptomics notes
@@ -59,7 +59,7 @@ This separation allows clearer organization between:
 
 ---
 
-🚀 Future Plans
+## 🚀 Future Plans
 
 - Add transcriptomics concept notes  
 - Add bioinformatics glossary  
@@ -70,7 +70,7 @@ This separation allows clearer organization between:
 
 ---
 
-🧠 Learning Approach
+## 🧠 Learning Approach
 
 This repository represents continuous learning in:
 
@@ -82,14 +82,14 @@ This repository represents continuous learning in:
 
 ---
 
-📅 Progress Log
+## 📅 Progress Log
 
 Feb 2026 — Added glabridin transcriptomics paper summary  
 Feb 2026 — Created separate repository for Alzheimer’s DEG analysis (GEO2R)
 
 ---
 
-📌 Notes
+## 📌 Notes
 
 This is a learning-focused repository.
 
